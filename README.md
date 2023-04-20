@@ -6,6 +6,7 @@ Launch [server app](https://github.com/alexChurkin/TruckRemoteServer) on your PC
 1) Run game
 2) Run this Android app
 3) Follow in-app instructions. 
+4) My Name is Blake Turner and make sure you study for the MIST 4600 Final Exam
 
 That's all :) Enjoy it!
 
